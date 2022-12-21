@@ -1,0 +1,8 @@
+export {default as atmosphere} from './images/atmosphere.jpg'
+export {default as clear} from './images/clear.jpg'
+export {default as clouds} from './images/clouds.jpg'
+export {default as default} from './images/default.jpg'
+export {default as drizzle} from './images/drizzle.jpg'
+export {default as rain} from './images/rain.jpg'
+export {default as snow} from './images/snow.jpg'
+export {default as thunderstorm} from './images/thunderstorm.jpg'
