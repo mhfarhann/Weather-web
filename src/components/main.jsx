@@ -24,13 +24,12 @@ const Main = () => {
    }
    catch(error){
     alert("City not found")
-      console.log(error)
    }
   }
 
   const styles = {
     container : 'h-screen flex font-roboto',
-    heading:'fixed text-white font-bold text-2xl  ml-40 mt-10',
+    heading:'fixed text-white font-bold text-xl  ml-40 mt-10',
     image:'object-cover w-screen h-screen',
     celciuswrapper:' fixed flex mt-80 bottom-0 ml-40 mb-10',
     celcius:'text-white font-extrabold text-[200px]',
